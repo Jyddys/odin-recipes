@@ -22,7 +22,7 @@ li {
 a {
     font: bold 11px Arial;
   text-decoration: none;
-  background-color: #b48400;
+  background-color: rgb(180, 132, 0);
   color: #000000;
   padding: 2px 6px 2px 6px;
   border-top: 1px solid #CCCCCC;
@@ -55,5 +55,21 @@ img {
 
 .steps {
     background-color: grey;
+}
+
+.main {
+    margin-left: 40%;
+    
+    
+    
+}
+
+.mainpage {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.mainlist {
+    list-style: none;
 }
 
